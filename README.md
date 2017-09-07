@@ -9,3 +9,7 @@ Now, let's learn something together.
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `The basic functions you should know:`
  	Python Notebook - Cookbook for Basic Functions.ipynb
+
+(upcoming) pandas, numpy...
+
+Again, don't freak out when you got stuck, it's common for programmers. Be patient, and have fun.
