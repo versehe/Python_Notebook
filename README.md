@@ -8,4 +8,4 @@ I decide to collect my notes and publish them, you can treat these codes as a co
 Now, let's learn something together. 
 
 The basic syntax you should know:
- 	\nPython Notebook - Cookbook for Basic Functions.ipynb
+ 	/nPython Notebook - Cookbook for Basic Functions.ipynb
