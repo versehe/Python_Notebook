@@ -7,5 +7,5 @@ I decide to collect my notes and publish them, you can treat these codes as a co
 
 Now, let's learn something together. 
 
-The basic syntax you should know:
+ ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `The basic functions you should know:`
  	/nPython Notebook - Cookbook for Basic Functions.ipynb
