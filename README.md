@@ -1,5 +1,5 @@
 # Python_Notebook
-This is a Python cookbook for entry level python learners, especially for data science speciality.
+This is a Python cookbook for entry level python learners, especially for data science specialty.
 
 As one of you guys, I learned Python by myself. It was really painful at the very beginning, even though I had some R programming experience before switching to Python. But once I worked out my first python project, I started to enjoy it. So don't freak out if you got stuck at any stage, we are all learning from mistakes. 
 
