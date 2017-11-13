@@ -9,10 +9,12 @@ Now, let's learn something together.
 
  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `The basic functions you should know:`
  	Python Notebook - Cookbook for Basic Functions.ipynb
+  Python Notebook - Cookbook for Numpy.ipynb
 
 (upcoming) 
 pandas, 
-numpy,
+skitlearn,
+pycharts
 ...
 
 
