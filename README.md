@@ -1,9 +1,11 @@
 # Python_Notebook
 This is a Python cookbook for entry level python learners, especially for data science specialty.
 
-As one of you guys, I learned Python by myself. It was really painful at the very beginning, even though I had some R programming experience before switching to Python. But once I worked out my first python project, I started to enjoy it. So don't freak out if you got stuck at any stage, we are all learning from mistakes. 
+As one of you guys, I learned Python by myself. It was really painful at the very beginning, even though I had some programming experience before switching to Python. But once I worked out my first python project, I started to enjoy it. So don't freak out if you got stuck at any stage, we all learn from mistakes. 
 
-I decide to collect my notes and publish them, you can treat these codes as a cookbook for your study. The notes would contain basic functions in Python, and also some common used / fancy modules I have ever worked with. I will try my best to hold some examples, but if you encounter some issues when following my steps or you got any comments about my codes, feel free to interact with me. I don't plan to teach anything to you, but if you found my work helps you in any way, it would be the best feedback to me.
+When learing new programming languages, remembering their syntax is actually just half of the battle. The second half is to study their related pre-build functionalities, it makes you from a beginner to a master. 
+
+I decide to collect some common modules I have ever worked with and share them with you. You can treat these codes as a cookbook for your study. I will try to hold some examples as well. If you encounter any issues when following my steps or you got any comments about my codes, feel free to interact with me. I don't plan to teach anything to you, but if you found my work helps you in any way, it would be great feedback to me.
 
 Now, let's learn something together. 
 
