@@ -13,6 +13,7 @@ Now, let's learn something together.
  	Python Notebook - Cookbook for Basic Functions.ipynb      
   Python Notebook - Cookbook for Numpy.ipynb    
   Python Notebook - Cookbook for Pandas.ipynb     
+  Python Notebook - Cookbook for Datetime.ipynb
   Ready to practice? Pandas_Practice.ipynb
   
   ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Data Visualization tools:`     
