@@ -51,7 +51,7 @@ df['index'] = np.arange(3)
 
 df = pd.merge(Student,Class, left_on = 'class',right_on = 'classes', how = 'inner')
 # can merge on multiple keys on = ['class','Name']
-df['prev_score'] = df.groupby('class')['Score'].shift(1)
+df['prev_score'] = df.groupby('class',as_index=False)['Score'].shift(1)
 df['rank']= df.groupby('class')['Score'].rank(ascending=False)
 df.groupby(['class','Classroom']).mean()
 
