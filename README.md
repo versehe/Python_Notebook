@@ -20,8 +20,8 @@ Now, let's learn something together.
   Python Notebook - Cookbook for Pyecharts.ipynb    
   Python Notebook - Cookbook for Matplotlib.ipynb
   
-
-   
+ ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Web Scraping:`     
+   Python Notebook - Cookbook for BeautifulSoup.ipynb
 
 
 (upcoming) 
